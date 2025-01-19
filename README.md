@@ -1,2 +1,2 @@
 # ai-translator
-multi-language translator app with translations from llvm
+multi-language translator app with translations from llm
